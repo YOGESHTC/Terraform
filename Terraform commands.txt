@@ -16,3 +16,6 @@ Commands:
 
 6.To delete specific resources in aws
 -->terraform destroy -target=<resource_type.resource_name>
+
+To refer terraform scripts:
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
